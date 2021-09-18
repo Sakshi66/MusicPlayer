@@ -176,7 +176,7 @@ class Player(tk.Frame):
 
 root = tk.Tk()
 root.geometry('600x400')
-root.wm_title('Musicxy')
+root.wm_title('Music Player')
 
 img = PhotoImage(file='images/music.gif')
 next_ = PhotoImage(file = 'images/next.gif')
